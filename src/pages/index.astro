@@ -1,0 +1,40 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <h1>Hola! :)</h1>
+      <p>
+        Este es un pequeño blog que he creado con la finalidad de compartir mis
+        trabajos, proyectos, así como las herramientas y programas que suelo
+        utilizar para su desarrollo. También compartire algunos tips
+        relacionados con el marketing y un poco del mundo tecnológico.
+      </p>
+      <p>
+        Si te preguntas por la apiencia del sitio, lo ire mejorando :P, no soy
+        diseñador pero dare lo mejor de mi para ir mejorando el UX/UI.
+      </p>
+      <!-- <p>Si deseas puedes seguirme en mi perfil de <a href="/" class="linkedin">Linkedin</a> :)</p>-->
+
+
+    </main>
+    <Footer />
+  </body>
+</html>
+
+
+<style>
+	.linkedin {
+		text-decoration: none;
+	}
+</style>
