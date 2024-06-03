@@ -2,7 +2,7 @@
 title: "Proyecto de Branding - Fremob"
 description: 'Proyecto academico de construccion de identidad de marca de "Fremob", empresa especializada en la comercializacion de prendas urbanas de danza.'
 pubDate: "Mar 18,2024"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "/blog/banner-fremob.webp"
 insideImage: "/blog/banner-fremob.webp"
 ---
 
