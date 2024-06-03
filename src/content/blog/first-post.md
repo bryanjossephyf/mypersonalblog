@@ -3,6 +3,7 @@ title: 'First post'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 08 2025'
 heroImage: '/blog-placeholder-3.jpg'
+insideImage: "/blog-placeholder-4.jpg"
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
